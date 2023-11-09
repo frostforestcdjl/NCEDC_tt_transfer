@@ -1,0 +1,3 @@
+1. Prepare your input.txt as the same format as the example file.
+2. Modify the file names for input and output file in the first section in the python code.
+3. Run the python code with "python *.py" in your commend line
